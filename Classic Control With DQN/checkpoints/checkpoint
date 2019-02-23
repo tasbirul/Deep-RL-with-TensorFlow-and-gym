@@ -1,2 +1,2 @@
-model_checkpoint_path: "CartPole_DQN.ckpt"
-all_model_checkpoint_paths: "CartPole_DQN.ckpt"
+model_checkpoint_path: "MountainCar_DQN.ckpt"
+all_model_checkpoint_paths: "MountainCar_DQN.ckpt"
